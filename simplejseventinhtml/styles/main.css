@@ -1,0 +1,16 @@
+body {
+    
+    width: 600px;
+    margin; 0 auto;
+    padding; 20px 0px;
+}
+
+div {
+    
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    
+}
