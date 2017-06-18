@@ -32,12 +32,6 @@ padding-bottom: 100px;
 .nav{
 	height: 6rem;
 	margin-top:7%;
-	/* max-width: 100%;
-    min-width: 60%;
-    /* The flex property specifies the length of the item, relative to the rest of the flexible items inside the same container.
-    flex: 1;
-    margin: auto;
-	background-color: grey; */
 	color: black;
 }
 
