@@ -18,13 +18,13 @@ $(".nav li").hover(
 // function 1 of 2 is declared for when mouse enters
 	function() {
 	// the color property of .nav li will turn red so its text will
-	$(this).fadeOut(1500);
+	$(this).fadeOut(100);
 	// a comma indicated the border between the first and the second function
 	}, 
 	// a second function is declared
 	function(){
 	// changing the color back to black when mouse leaves
-	$(this).fadeIn(100);
+	$(this).fadeIn(5000);
 	}); 
 
 // "If you sleep 3 hours two nights in a row, stay calm", "let nature take its course", "life is life"
