@@ -13,6 +13,7 @@ $(".nav li").hover(
 	}); */
 
 //2. on hover fade out fade in
+$(document).ready(function(){ 
 
  $(".nav li").hover(
 // function 1 of 2 is declared for when mouse enters
@@ -45,3 +46,5 @@ randomWisdom();
 
 //the randomly generated wisdom is appended to the paragraph marked with the #wisdoms id
 $("#wisdoms").append(randomWisdom());
+
+ })
