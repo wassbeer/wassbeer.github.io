@@ -15,12 +15,12 @@ $(".nav li").hover(
 //2. on hover fade out fade in
 $(document).ready(function(){ 
 
- $(".nav li").hover(
+ $("a").hover(
 // function 1 of 2 is declared for when mouse enters
 	function() {
 	// the color property of .nav li will turn red so its text will
 	//$(this).fadeOut(100);
-	$(this).css( "color", "red" );
+	$(this).css( "color", "#808080" );
 	// a comma indicated the border between the first and the second function
 	}, 
 	// a second function is declared
