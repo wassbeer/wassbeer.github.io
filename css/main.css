@@ -1,0 +1,11 @@
+body {
+  background-color: #fff;
+  color: black;
+  font-size: 24pt;
+  font-family: 'Inconsolata';
+  padding: 5vh 0 5vh 0;
+}
+
+p {
+  margin: 40px 0 40px 0;
+}
